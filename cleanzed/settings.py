@@ -12,7 +12,7 @@ SECRET_KEY = 'django-insecure-tbr%d*owe(x_9px5*p4*6o1z=*ata9+=0o%s@crp3zjyevweb@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['clized-dynamic.onrender.com']
 
 
 # Application definition
