@@ -1,1 +1,1 @@
-gunicorn 
+gunicorn cleanzed.wsgi
